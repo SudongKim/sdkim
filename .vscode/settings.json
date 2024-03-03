@@ -1,0 +1,4 @@
+{
+    "cmake.sourceDirectory": "C:/Users/sudongkim/code/CMAKE_TEST",
+    "testMate.cpp.test.executables": "{build,Build,BUILD,out,Out,OUT}/**/*{test,Test,TEST,_tst}*"
+}
